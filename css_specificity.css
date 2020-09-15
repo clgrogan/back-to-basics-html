@@ -1,0 +1,51 @@
+/*
+
+1. add 1000 for style attribute
+2. add 100 for id
+3. 10 for each class
+4. 1 for each element
+
+*/
+
+/* by element */
+h1 {
+  /* weight of 1 */
+  color: green;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+/* combos */
+div h1.darkgray {
+  color: darkgray;
+}
+
+/* by class */
+.magenta {
+  /* weight of 10 */
+  color: magenta;
+}
+
+/* by element.class */
+h1.gold {
+  color: goldenrod;
+}
+
+/* by ID */
+#cyan {
+  color: cyan;
+}
+
+.marked p {
+  color: orange;
+}
+
+.tagged > p {
+  color: purple;
+}
+
+p.tagged {
+  color: pink;
+}

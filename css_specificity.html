@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSS Specificity Demo</title>
+    <link rel="stylesheet" type="text/css" href="css_specificity.css" />
+    <style>
+      h1 {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h1 id="cyan" class="magenta gold darkgray" style="color: darkblue">
+        Heading Text
+      </h1>
+    </div>
+    <p>
+      CSS file <br />
+
+      .marked p { <br />
+      color:orange;<br />
+      }
+    </p>
+    <div class="marked">
+      <p>Paragraph inside .marked div</p>
+      <p class="marked">Paragraph .marked inside .marked div</p>
+      <div>
+        <p>Paragraph that is grandchild of .marked div</p>
+      </div>
+    </div>
+    <p>
+      CSS file <br />
+
+      .tagged>p { <br />
+      color:purple;<br />
+      }<br /><br />
+      p.tagged {<br />
+      color: pink;<br />
+      }
+    </p>
+    <div class="tagged">
+      <p>Paragraph inside .tagged div</p>
+      <div>
+        <p>Paragraph that is grandchild of .tagged div</p>
+        <p class="tagged">Paragraph .tagged as grandchild of .tagged div</p>
+      </div>
+    </div>
+  </body>
+</html>
