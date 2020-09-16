@@ -13,12 +13,7 @@ Demonstration of the nitty-gritty HTML and CSS concepts
 
 ## Project Specifications
 
-Angular application that will display a list of the followers of an authenticated user.
-
-- End point: https://api.github.com/users/username/followers
-- Example: https://api.github.com/users/clgrogan/followers
-
-Each following user line item will include the user's avatar, name, and GitHub url.
+Testbench for HTML and CSS basic concepts.
 
 ![Image of WireFrame](resources/GitHubFollowersWF.png)
 

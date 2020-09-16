@@ -1,0 +1,33 @@
+html, body {
+ height: 100%;	
+}
+
+section {
+	height: 50%;
+}
+
+.half-width {
+	width: 50%;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.blue {
+	background-color: #446f9c;
+	color: white;
+	text-align: center;
+}
+
+section>div>p {
+	background-color: green;
+	margin: 5% 1%
+}
+
+
+

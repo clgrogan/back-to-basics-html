@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.page-container {
+	width: 95%;
+	margin: auto;
+}
+
+.box {
+	background-color: mediumblue;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	border: 3px solid black;
+	padding: 20px 0 20px 0;
+}
+
+header.box {
+	margin-top: 0;
+}
+
+.col {
+	float: left;
+	margin-right: 3%; 
+}
+
+.col:last-of-type {
+	margin-right: 1%;
+}
+
+.col1 { width: 5.5%; }
+.col2 { width: 14%; }
+.col3 { width: 22.5%; }
+.col4 { width: 31%; }
+.col5 { width: 39.5; }
+.col6 { width: 48%; }
+.col7 { width: 56.5%; }
+.col8{ width: 65%; }
+.col9 { width: 73.5%; }
+.col10 { width: 82%; }
+.col11 { width: 90.5%; }
+.col12 { width: 99%; }

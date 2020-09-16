@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Process</title>
+  <link rel="stylesheet" type="text/css" href="" />
+</head>
+<body>
+  <p>Input received:  <span id="demo"></span></p>
+  <script>
+    var url = document.URL;
+	var pos = url.indexOf("entered");
+	document.getElementById("demo").innerHTML = url.slice(pos + 8);
+  </script>
+</body>
+</html>

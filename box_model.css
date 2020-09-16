@@ -1,0 +1,24 @@
+h1 {
+  margin: 40px 30px 20px 10px;
+  padding: 10px 20px 30px 40px;
+  border: solid 2px darkblue;
+}
+
+p {
+  padding: 0.67rem;
+  background-color: blue;
+  color: white;
+  border: solid 2px black;
+}
+
+.width50 {
+  width: 50%;
+}
+
+.borderbox {
+  box-sizing: border-box;
+}
+
+.contentbox {
+  box-sizing: content-box;
+}
