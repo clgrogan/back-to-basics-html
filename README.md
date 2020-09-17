@@ -4,11 +4,11 @@ Demonstration of the nitty-gritty HTML and CSS concepts
 
 ## Summary
 
-- [Project Specifications](#exercise-specifications)
+- [Exercise Specifications](#exercise-specifications)
 - [Built With](#built-with)
 - [Subjects Demonstrated](#subjects-demonstrated)
 
-## Project Specifications
+## Exercise Specifications
 
 Testbench for HTML and CSS basic concepts.
 
@@ -31,7 +31,7 @@ Built in HTML 5 and CSS 3, but much of the information and functionality will tr
 
 ## Authors
 
-**[Curt Grogan](https://github.com/clgrogan)** - Full Stack Web Developer
+**[Curt Grogan](https://www.linkedin.com/in/curtgrogan/)** - Full Stack Web Developer
 
 - GitHub: [github.com/clgrogan](https://github.com/clgrogan)
-- LinkedIn: [www.linkedin.com/in/curtgrogan/](https://www.linkedin.com/in/curtgrogan/)
+- LinkedIn: [https://www.linkedin.com/in/curtgrogan/](https://www.linkedin.com/in/curtgrogan/)
