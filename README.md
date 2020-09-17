@@ -6,7 +6,7 @@ Demonstration of the nitty-gritty HTML and CSS concepts
 
 - [Project Specifications](#exercise-specifications)
 - [Built With](#built-with)
-- [Subjects Demonstrated]
+- [Subjects Demonstrated](#subjects-demonstrated)
 
 ## Project Specifications
 
@@ -16,7 +16,7 @@ Testbench for HTML and CSS basic concepts.
 
 - [VS Code](https://code.visualstudio.com/) - That's about it
 
-## HTML and CSS
+## Subjects Demonstrated
 
 Built in HTML 5 and CSS 3, but much of the information and functionality will transcend versions.
 
