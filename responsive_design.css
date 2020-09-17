@@ -1,0 +1,84 @@
+:root {
+  font: 16px / 1 Tahoma, sans-serif;
+}
+
+/* body */
+body {
+  background-color: blanchedalmond;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+header {
+  width: 100%;
+  height: 120px;
+  background-color: black;
+}
+
+img {
+  padding: 10px;
+}
+a {
+  /* display: inline-block; */
+  width: 33.3%;
+  color: white;
+  text-align: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+/* Navigation bar style */
+.navbar,
+.flexit {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-right {
+  width: 35%;
+}
+
+.ys {
+  background-color: whitesmoke;
+}
+
+.page-container {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  background-color: #aaa;
+}
+
+/* image style */
+.full-logo {
+  width: 7rem;
+}
+
+.ys-logo {
+  width: 1.5rem;
+}
+
+.navbar-right {
+  width: 25%;
+}
+
+@media (max-width: 999px) {
+  .navbar-right {
+    background-color: hotpink;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .full-logo {
+    display: none;
+  }
+}
+
+@media (min-width: 1000px) {
+  .navbar-right {
+    background-color: hotpink;
+    display: flex;
+    flex-direction: row;
+  }
+  .ys-logo {
+    display: none;
+  }
+}
