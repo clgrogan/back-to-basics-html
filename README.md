@@ -27,11 +27,11 @@ Built in HTML 5 and CSS 3, but much of the information and functionality will tr
 ## Deployment
 
 - Not deployed.
-- Code [https://github.com/clgrogan/back-to-basics-html](https://github.com/clgrogan/back-to-basics-html)
+- Code **<a href="https://github.com/clgrogan/back-to-basics-html" target="_blank">https://github.com/clgrogan/back-to-basics-html</a>**
 
 ## Authors
 
-**[Curt Grogan](https://www.linkedin.com/in/curtgrogan/)** - Full Stack Web Developer
+**<a href="https://www.linkedin.com/in/curtgrogan/" target="_blank">Curt Grogan</a>**- Full Stack Web Developer
 
-- GitHub: [github.com/clgrogan](https://github.com/clgrogan)
-- LinkedIn: [https://www.linkedin.com/in/curtgrogan/](https://www.linkedin.com/in/curtgrogan/)
+- GitHub: **<a href="https://github.com/clgrogan" target="_blank">github.com/clgrogan**
+- LinkedIn: **<a href="https://www.linkedin.com/in/curtgrogan/" target="_blank">in/curtgrogan</a>**
